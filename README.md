@@ -6,7 +6,7 @@
 # LAB-1
 _____________________________________________________________________
 
-# QUESTION-1
+# QUESTION
 
 
 Write a Java Program that will collect an employee's basic details that fall into different data types and displays them.
