@@ -42,9 +42,9 @@ aditi
 Register number: 
 22122005
 Email: 
-ad@gmail.com
+aditik@gmail.com
 Class: 
-23
+2msc-a
 Department: 
 ds
 _____________________________________________________
@@ -56,24 +56,18 @@ aditi
 Details of aditi : 
 aditi
 22122005
-ad@gmail.com
-23
+aditik@gmail.com
+2msc-a
 ds
 _____________________________________________________
 Please Enter your choice: 
 3
 _________________________________________________________
-Please enter the name you are searching for :  
-aditi
-Details of aditi : 
-aditi
-22122005
-ad@gmail.com
-23
-ds
+Please enter the name you want to search for :
+seema
+Name not found !!!!!
 _____________________________________________________
 Please Enter your choice:
 4
 Thanks for visiting !
 PS C:\Users\Aditi\OneDrive\Desktop\sem2\Java> 
-
