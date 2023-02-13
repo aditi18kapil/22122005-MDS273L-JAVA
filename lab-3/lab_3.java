@@ -45,48 +45,41 @@ static void display_student(){
        for(int i=0;i<names_arr.length;i++){
           if(names_arr[i].equalsIgnoreCase(s_name)){
                indexVal = i;
+               System.out.println("Details of "+s_name+" : ");
+
+                for(int y=0;y<5;y++){
+                   System.out.println(details_arr[indexVal][y]);}
               break;
-          } 
-             else{
-                System.out.println("Name not found !!!!!");
-                 break;
-         
-            
-       }
-
-       
-    }   
-
-    System.out.println("Details of "+s_name+" : ");
-
-       for(int y=0;y<5;y++){
-        System.out.println(details_arr[indexVal][y]);
-       }
-
-    }
-    static void search_student(){
-        Scanner scan = new Scanner(System.in);
-       System.out.println("Please enter the name you are searching for :  ");
-       String s_name = scan.nextLine();
-       for(int i=0;i<names_arr.length;i++){
-          if(names_arr[i].equalsIgnoreCase(s_name)){
-               indexVal = i;
-               break;
+              
           } 
              else{
                 System.out.println("Name not found !!!!!");
                 break;
-         
-            
-       }
+            }
+}   
+    
 
-       
-    }  
-    System.out.println("Details of "+s_name+" : ");
+    
+    }
+    static void search_student(){
+      Scanner scan = new Scanner(System.in);
+      System.out.println("Please enter the name you want to search for :  ");
+      String s_name = scan.nextLine();
+      for(int i=0;i<names_arr.length;i++){
+         if(names_arr[i].equalsIgnoreCase(s_name)){
+              indexVal = i;
+              System.out.println("Details of "+s_name+" : ");
 
-       for(int y=0;y<5;y++){
-        System.out.println(details_arr[indexVal][y]);
-       }
+               for(int y=0;y<5;y++){
+                  System.out.println(details_arr[indexVal][y]);}
+             break;
+             
+         } 
+            else{
+               System.out.println("Name not found !!!!!");
+               break;
+           }
+}   
 
     }
 
@@ -100,7 +93,8 @@ static void display_student(){
         do{
 
             f = true;
-            System.out.println("PLease Enter your choice: ");
+            System.out.println("_____________________________________________________");
+            System.out.println("Please Enter your choice: ");
             int choice = scan.nextInt();
             
        
