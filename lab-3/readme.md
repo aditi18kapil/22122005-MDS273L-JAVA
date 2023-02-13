@@ -79,4 +79,5 @@ PS C:\Users\Aditi\OneDrive\Desktop\sem2\Java>
 
 # FLOWCHART
 
+![image](https://user-images.githubusercontent.com/118043393/218395342-89c61911-4dd8-4aff-adad-f55567e371b3.png)
 
