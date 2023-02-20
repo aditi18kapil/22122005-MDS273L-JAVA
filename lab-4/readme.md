@@ -73,7 +73,10 @@ ________________________________________________________________________________
  2.Withdraw money
  3.Print Transactions
  4.Print account summary
-Enter your choice: 
+Enter your choice:
+5
+_______________________________________________________________________________________________
+Wrong input ! LOGGING OUT............ 
 
 
 
