@@ -50,4 +50,13 @@ Please enter your choice: 3
 
 -----------------------------------------------
 PS C:\Users\Aditi\OneDrive\Desktop\LAB-1\22122005-MDS273L-JAVA\lab-5> 
+
+
+
+
+
+# FLOWCHART:
+
+![image](https://user-images.githubusercontent.com/118043393/223040062-5d5dca9e-73e3-433e-890d-5b63317e5d13.png)
+
  
