@@ -21,7 +21,8 @@ class lab_5{
            
     }
 
-    return temp;}
+    return temp;
+    }
 
     static String decrypt(String s){      // receiving string value
         String temp="";
