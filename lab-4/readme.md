@@ -84,5 +84,6 @@ Wrong input ! LOGGING OUT............
 
 # FLOWCHART
 
-![image](https://user-images.githubusercontent.com/118043393/218395342-89c61911-4dd8-4aff-adad-f55567e371b3.png)
+![image (1)](https://user-images.githubusercontent.com/118043393/228129723-e63291bd-377c-479a-a739-1e5074e5e15d.png)
+
 
