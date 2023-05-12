@@ -71,3 +71,12 @@ PLease Enter your choice:
 5
 Thankyou for using our portal! 
 PS C:\Users\Aditi\OneDrive\Desktop\LAB-1\22122005-MDS273L-JAVA\lab-2> 
+
+
+
+
+
+# FLOWCHART
+
+![Aditikapil_22122005_lab-2_flowchart_java](https://github.com/aditi18kapil/22122005-MDS273L-JAVA/assets/118043393/05683937-ad2e-4328-8f0c-91ba2668eb84)
+
